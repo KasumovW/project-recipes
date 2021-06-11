@@ -13,6 +13,10 @@
 - Лайк на понравившийся рецепт
 - Комментирование рецепта
 - Просмотр раздела "Избранное"
+- 
+### Данные для авторизации:
+- Login: Admin
+- Password: password
 
 ![gif](https://github.com/Kharsaeva/project-recipes/blob/Aisha/IMG_1338.gif)
 
