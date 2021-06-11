@@ -7,7 +7,7 @@
 * * *
 
 ### Данные для авторизации:
-- Login: Admin
+- Login: admin
 - Password: password
 
 * * *
