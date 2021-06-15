@@ -28,18 +28,26 @@
 
 ![gif](https://github.com/Kharsaeva/project-recipes/blob/Aisha/IMG_1337.gif)
 
-## Запуск проекта
+### Для запуска проекта вам необходимо : 
 
-Для запуска проекта вам необходимо набрать команду в терминале:
-
+1. Клонировать проект на ваше устройство командой:
 ```javascript
-npm i
+git clone https://github.com/KasumovW/project-recipes.git
 ```
 
-После набрать команду:
-
+2. Указать путь к проекту:
 ```javascript
-npm run dev
+cd react-chat
+```
+
+3. Затем устоновить зависимости проекта:
+```javascript
+npm install
+```
+
+4. Запустить:
+```javascript
+npm start
 ```
 
 ## Технологии проекта
@@ -84,7 +92,6 @@ npm run dev
 - #### Авторизацией на проекте
 - #### С сервером Json
 - #### GIT
-- #### Редюсарами
 - #### Redux
 - #### Redux Thunk
 - #### Redux Logger
