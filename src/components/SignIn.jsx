@@ -55,6 +55,14 @@ function SignIn() {
                 Неверный логин или пароль
               </div>
             )}
+            <div className="block-panel-admin">
+              <div className="block-login-admin">
+                <span>Логин:</span> admin
+              </div>
+              <div className="block-password-admin">
+                <span>Пароль:</span> password
+              </div>
+            </div>
             <div className="form-group text-center">
               <button
                 className="btn btn-primary px-4"
